@@ -87,13 +87,13 @@ AWS-S3-Portfolio-deployment/
 ## 📸 Deployment Screenshots
 
 ### S3 Static Website Hosting Enabled
-![S3 Static Hosting]("L:\Adhi_Codes\Cloud Computing\Cloud Assignments\static-hosting.png")
+![S3 Static Hosting](src/screenshots/static-hosting.png)
 
 ### CloudFront Distribution
-![CloudFront Distribution]("L:\Adhi_Codes\Cloud Computing\Cloud Assignments\cloudfront.png")
+![CloudFront Distribution](src/screenshots/cloudfront.png)
 
 ### Live Website
-![Live Website]("L:\Adhi_Codes\Cloud Computing\Cloud Assignments\portfolio-preview.png")
+![Live Website](src/screenshots/portfolio-preview.png)
 
 
 ---

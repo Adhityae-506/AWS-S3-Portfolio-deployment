@@ -2289,7 +2289,12 @@ footer {
 }
 
 .experience-card-header.vault {
-  background: #ff5a5f;
+  background: linear-gradient(
+    90deg,
+    #0979C4 40%,
+    #4A9ED0 60%,
+    #E8624A 100%
+);
 }
 
 .experience-logo {
